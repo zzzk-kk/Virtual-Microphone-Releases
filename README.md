@@ -1,7 +1,5 @@
-# Virtual Microphone 下载
+# Virtual Microphone
 
-这里提供 Virtual Microphone 虚拟麦克风的公开安装包与更新记录。
+这里仅用于发布 Virtual Microphone 的官方网站资源。
 
-- 支持 Windows 10/11 x64
-- 软件本体免安装
-- 首次使用需安装免费的 VB-Cable 驱动
+当前不提供公开安装包，软件源码保持私有。
